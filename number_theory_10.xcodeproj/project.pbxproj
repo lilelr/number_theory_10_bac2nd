@@ -35,6 +35,7 @@
 		DE56507E1D9D6A3C00B95245 /* Uva 12169 disgruntled Judge.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Uva 12169 disgruntled Judge.cpp"; sourceTree = "<group>"; };
 		DE5650801D9D6E3F00B95245 /* Uva10375 Choose and Divide.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Uva10375 Choose and Divide.cpp"; sourceTree = "<group>"; };
 		DEB74D061DA73B55002CBDA4 /* Uva12716 GCD XOR.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Uva12716 GCD XOR.cpp"; sourceTree = "<group>"; };
+		DEB74D081DA73FD6002CBDA4 /* Uva12716 GCD XOR.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Uva12716 GCD XOR.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +68,7 @@
 		DE5650721D9CC1F900B95245 /* number_theory_10 */ = {
 			isa = PBXGroup;
 			children = (
+				DEB74D081DA73FD6002CBDA4 /* Uva12716 GCD XOR.jpg */,
 				DE5650731D9CC1F900B95245 /* mod big numbers.cpp */,
 				DE56507A1D9CC2B500B95245 /* in */,
 				DE56507B1D9CC2BD00B95245 /* out */,
