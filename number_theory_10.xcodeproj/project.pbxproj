@@ -7,7 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DE5650741D9CC1F900B95245 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE5650731D9CC1F900B95245 /* main.cpp */; };
+		DE5650741D9CC1F900B95245 /* mod big numbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE5650731D9CC1F900B95245 /* mod big numbers.cpp */; };
+		DE56507D1D9D686F00B95245 /* Uva 11582 Colossal Fibonacci Numbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE56507C1D9D686F00B95245 /* Uva 11582 Colossal Fibonacci Numbers.cpp */; };
+		DE56507F1D9D6A3C00B95245 /* Uva 12169 disgruntled Judge.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE56507E1D9D6A3C00B95245 /* Uva 12169 disgruntled Judge.cpp */; };
+		DE5650811D9D6E3F00B95245 /* Uva10375 Choose and Divide.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE5650801D9D6E3F00B95245 /* Uva10375 Choose and Divide.cpp */; };
+		DEB74D071DA73B55002CBDA4 /* Uva12716 GCD XOR.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEB74D061DA73B55002CBDA4 /* Uva12716 GCD XOR.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +28,13 @@
 
 /* Begin PBXFileReference section */
 		DE5650701D9CC1F900B95245 /* number_theory_10 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = number_theory_10; sourceTree = BUILT_PRODUCTS_DIR; };
-		DE5650731D9CC1F900B95245 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		DE5650731D9CC1F900B95245 /* mod big numbers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "mod big numbers.cpp"; sourceTree = "<group>"; };
+		DE56507A1D9CC2B500B95245 /* in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = in; sourceTree = "<group>"; };
+		DE56507B1D9CC2BD00B95245 /* out */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = out; sourceTree = "<group>"; };
+		DE56507C1D9D686F00B95245 /* Uva 11582 Colossal Fibonacci Numbers.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Uva 11582 Colossal Fibonacci Numbers.cpp"; sourceTree = "<group>"; };
+		DE56507E1D9D6A3C00B95245 /* Uva 12169 disgruntled Judge.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Uva 12169 disgruntled Judge.cpp"; sourceTree = "<group>"; };
+		DE5650801D9D6E3F00B95245 /* Uva10375 Choose and Divide.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Uva10375 Choose and Divide.cpp"; sourceTree = "<group>"; };
+		DEB74D061DA73B55002CBDA4 /* Uva12716 GCD XOR.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Uva12716 GCD XOR.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +67,13 @@
 		DE5650721D9CC1F900B95245 /* number_theory_10 */ = {
 			isa = PBXGroup;
 			children = (
-				DE5650731D9CC1F900B95245 /* main.cpp */,
+				DE5650731D9CC1F900B95245 /* mod big numbers.cpp */,
+				DE56507A1D9CC2B500B95245 /* in */,
+				DE56507B1D9CC2BD00B95245 /* out */,
+				DE56507C1D9D686F00B95245 /* Uva 11582 Colossal Fibonacci Numbers.cpp */,
+				DE56507E1D9D6A3C00B95245 /* Uva 12169 disgruntled Judge.cpp */,
+				DE5650801D9D6E3F00B95245 /* Uva10375 Choose and Divide.cpp */,
+				DEB74D061DA73B55002CBDA4 /* Uva12716 GCD XOR.cpp */,
 			);
 			path = number_theory_10;
 			sourceTree = "<group>";
@@ -118,7 +134,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DE5650741D9CC1F900B95245 /* main.cpp in Sources */,
+				DEB74D071DA73B55002CBDA4 /* Uva12716 GCD XOR.cpp in Sources */,
+				DE5650811D9D6E3F00B95245 /* Uva10375 Choose and Divide.cpp in Sources */,
+				DE56507F1D9D6A3C00B95245 /* Uva 12169 disgruntled Judge.cpp in Sources */,
+				DE56507D1D9D686F00B95245 /* Uva 11582 Colossal Fibonacci Numbers.cpp in Sources */,
+				DE5650741D9CC1F900B95245 /* mod big numbers.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -237,6 +257,7 @@
 				DE5650791D9CC1F900B95245 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
