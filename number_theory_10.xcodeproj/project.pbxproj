@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DE24CA961DAF2B5C007CEF48 /* UVa11582 Colossal Fibonacci Numbers!.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE24CA951DAF2B5C007CEF48 /* UVa11582 Colossal Fibonacci Numbers!.cpp */; };
 		DE5650741D9CC1F900B95245 /* mod big numbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE5650731D9CC1F900B95245 /* mod big numbers.cpp */; };
 		DE56507D1D9D686F00B95245 /* Uva 11582 Colossal Fibonacci Numbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE56507C1D9D686F00B95245 /* Uva 11582 Colossal Fibonacci Numbers.cpp */; };
 		DE56507F1D9D6A3C00B95245 /* Uva 12169 disgruntled Judge.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE56507E1D9D6A3C00B95245 /* Uva 12169 disgruntled Judge.cpp */; };
@@ -27,6 +28,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		DE24CA951DAF2B5C007CEF48 /* UVa11582 Colossal Fibonacci Numbers!.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "UVa11582 Colossal Fibonacci Numbers!.cpp"; sourceTree = "<group>"; };
 		DE5650701D9CC1F900B95245 /* number_theory_10 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = number_theory_10; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE5650731D9CC1F900B95245 /* mod big numbers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "mod big numbers.cpp"; sourceTree = "<group>"; };
 		DE56507A1D9CC2B500B95245 /* in */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = in; sourceTree = "<group>"; };
@@ -76,6 +78,7 @@
 				DE56507E1D9D6A3C00B95245 /* Uva 12169 disgruntled Judge.cpp */,
 				DE5650801D9D6E3F00B95245 /* Uva10375 Choose and Divide.cpp */,
 				DEB74D061DA73B55002CBDA4 /* Uva12716 GCD XOR.cpp */,
+				DE24CA951DAF2B5C007CEF48 /* UVa11582 Colossal Fibonacci Numbers!.cpp */,
 			);
 			path = number_theory_10;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				DE56507F1D9D6A3C00B95245 /* Uva 12169 disgruntled Judge.cpp in Sources */,
 				DE56507D1D9D686F00B95245 /* Uva 11582 Colossal Fibonacci Numbers.cpp in Sources */,
 				DE5650741D9CC1F900B95245 /* mod big numbers.cpp in Sources */,
+				DE24CA961DAF2B5C007CEF48 /* UVa11582 Colossal Fibonacci Numbers!.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
