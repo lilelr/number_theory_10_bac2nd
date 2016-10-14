@@ -14,6 +14,7 @@
 		DE56507F1D9D6A3C00B95245 /* Uva 12169 disgruntled Judge.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE56507E1D9D6A3C00B95245 /* Uva 12169 disgruntled Judge.cpp */; };
 		DE5650811D9D6E3F00B95245 /* Uva10375 Choose and Divide.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DE5650801D9D6E3F00B95245 /* Uva10375 Choose and Divide.cpp */; };
 		DEB74D071DA73B55002CBDA4 /* Uva12716 GCD XOR.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEB74D061DA73B55002CBDA4 /* Uva12716 GCD XOR.cpp */; };
+		DEFFAD281DB0773F00C923EF /* UVa10791 Minimum Sum LCM.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DEFFAD271DB0773F00C923EF /* UVa10791 Minimum Sum LCM.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -40,6 +41,7 @@
 		DE5650801D9D6E3F00B95245 /* Uva10375 Choose and Divide.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Uva10375 Choose and Divide.cpp"; sourceTree = "<group>"; };
 		DEB74D061DA73B55002CBDA4 /* Uva12716 GCD XOR.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Uva12716 GCD XOR.cpp"; sourceTree = "<group>"; };
 		DEB74D081DA73FD6002CBDA4 /* Uva12716 GCD XOR.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Uva12716 GCD XOR.jpg"; sourceTree = "<group>"; };
+		DEFFAD271DB0773F00C923EF /* UVa10791 Minimum Sum LCM.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "UVa10791 Minimum Sum LCM.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				DEB74D061DA73B55002CBDA4 /* Uva12716 GCD XOR.cpp */,
 				DE24CA951DAF2B5C007CEF48 /* UVa11582 Colossal Fibonacci Numbers!.cpp */,
 				DE24CA971DAF33BF007CEF48 /* UVa12169 Disgruntled Judge (slow solution).cpp */,
+				DEFFAD271DB0773F00C923EF /* UVa10791 Minimum Sum LCM.cpp */,
 			);
 			path = number_theory_10;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DEFFAD281DB0773F00C923EF /* UVa10791 Minimum Sum LCM.cpp in Sources */,
 				DEB74D071DA73B55002CBDA4 /* Uva12716 GCD XOR.cpp in Sources */,
 				DE24CA981DAF33BF007CEF48 /* UVa12169 Disgruntled Judge (slow solution).cpp in Sources */,
 				DE5650811D9D6E3F00B95245 /* Uva10375 Choose and Divide.cpp in Sources */,
